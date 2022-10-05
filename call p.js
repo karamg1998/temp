@@ -9,4 +9,4 @@ function Run()
 
     document.body.innerHTML=document.body.innerHTML+c;
 }
-
+new d
